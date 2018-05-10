@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/zhangguo/springmvc/entitie/Article.java=UTF-8
+encoding//src/main/java/com/zhangguo/springmvc/service/ArticleService.java=UTF-8
+encoding//src/main/java/com/zhangguo/springmvc/templates/news.ftl=UTF-8
+encoding//src/main/java/com/zhangguo/springmvc/templates/newsList.ftl=UTF-8
+encoding/<project>=UTF-8
